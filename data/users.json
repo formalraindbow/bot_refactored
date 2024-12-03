@@ -1,0 +1,26 @@
+{
+    "438251622": {
+        "user_id": 438251622,
+        "username": "formalraindbow",
+        "first_name": "владимир",
+        "registration_date": null,
+        "is_registered": true,
+        "name": "линьков",
+        "university": "вшэ",
+        "faculty": "Социальные науки",
+        "info_source": "Из соцсетей",
+        "is_payment_confirmed": false
+    },
+    "7842066700": {
+        "user_id": 7842066700,
+        "username": "testimtvoumamu_bot",
+        "first_name": "test_bot",
+        "registration_date": null,
+        "is_registered": false,
+        "name": null,
+        "university": null,
+        "faculty": null,
+        "info_source": null,
+        "is_payment_confirmed": false
+    }
+}
